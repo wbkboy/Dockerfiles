@@ -6,9 +6,6 @@
   docker run --rm -it wbkboy/streamlink 
   ```
 
-  docker run --rm -it wbkboy/streamlink 
-
-
 
 - 我自己的一个录制容器设置：
 
